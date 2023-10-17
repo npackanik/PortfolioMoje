@@ -1,0 +1,21 @@
+.footer {
+    font-family: Montserrat;
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+  }
+  
+  .linkedinLink {
+    display: inline-flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+  }
